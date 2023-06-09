@@ -40,7 +40,7 @@ Mobile.setText(findTestObject('Object Repository/Flashsale/android.widget.EditTe
 
 Mobile.setText(findTestObject('Object Repository/Flashsale/android.widget.EditText (1)'), '089098989989', 0)
 
-Mobile.setText(findTestObject('Object Repository/Flashsale/android.widget.EditText (2)'), 'Jl Mutiara', 0)
+Mobile.setText(findTestObject('Object Repository/Flashsale/android.widget.EditText (2)'), 'Jl Cendana', 0)
 
 Mobile.closeApplication()
 
